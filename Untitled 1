@@ -1,0 +1,5 @@
+locahost:8080 : E:\회사및공부\Spring
+localhost:8080/blog : Spring폴더의 blog폴더의 webcontent 폴더 진입
+
+Spring폴더의 blog폴더의 webcontent 폴더의 index.jsp를 찾아라(요청)
+http://localhost:8080/blog/index.jsp
